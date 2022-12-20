@@ -38,4 +38,4 @@ And every time you generate a password, the positions of the symbols, numbers, a
 
 # Solution
 
-[https://replit.com/@appbrewery/password-generator-end](https://replit.com/@appbrewery/password-generator-end)
+https://replit.com/@shivaramanramak/password-generator?v=1
